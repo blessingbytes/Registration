@@ -1,0 +1,43 @@
+
+body{
+  background:yellowgreen;
+}
+
+.contact{
+  text-align: center;
+}
+
+
+.form-submit {
+  background-color: white;
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 20px;
+  border-top: 8px;
+  border-bottom:10px ;
+}
+
+.form-submit input {
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 12px;
+  max-width: 375px;
+}
+
+.submit-btn {
+  background: green;
+  color: white;
+  padding: 7px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: green;
+
+}
+
+.submit-btn:hover {
+  color:red;
+
+}
